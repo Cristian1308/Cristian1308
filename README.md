@@ -8,8 +8,8 @@
             <li>🔭 I'm currently figuring out what to specialize in</li>
             <li>👨‍🎓 I'm learning Django at the moment</li>
             <li>💬 Ask me about anything you want</li>
-            <li>📫 How to reach me: fjcopati@gmail.com</li>
-            <li>💼 I had a 4-month internship at the company GIRE S.A.</li>
+            <li>📫 How to reach me: cris13ca@hotmail.com</li>
+            <li>💼  Currently, I work at a digital marketing company as part of the tech team, where I create automation scripts, support lead generation efforts, and contribute to tech-driven marketing strategies</li>
         </ul>
     </h3>
 </header>
