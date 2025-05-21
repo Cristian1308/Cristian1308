@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img id='gif' align="right" src="https://giphy.com/gifs/computer-90s-Xbjut97XRr1aU" width="240">
+<img id='gif' align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNlbjBsdmZwYmZtb2c0Y2ljY2FhNG9tMTJhMGR2cmI0MWdjNjdwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ztr9s7vPAS8XtK0/giphy.gif" width="240">
 <header align="left">
     <h1 align="left">Hi everyone <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxjazVzZHlxNTZzbGpxNDFnbng1azRwaWhtOG0ybGJjOXF6Yno1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xbjut97XRr1aU/giphy.gif" width="35"></h1>
     <h3 align="left">
