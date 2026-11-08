@@ -12,6 +12,14 @@ I build AI agents, MCP connectors and automations that people actually use every
 
 <br clear="right" />
 
+> 🔒 **Most of my work is private:** production systems, internal tools and automations I lead as Tech Lead. What you see here is a small slice.
+
+### 🎯 Currently
+
+- Building **Terry**, my AI-powered life OS
+- Pursuing the official **Claude certification**
+- Designing agents and MCP connectors for real business workflows
+
 ### ⚡ What I build
 
 - **AI agents & assistants** — Claude-powered tools that read, decide and act across real systems.
